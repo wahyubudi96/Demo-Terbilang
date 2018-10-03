@@ -1,0 +1,13 @@
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo Terbilang.csprojAssemblyReference.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo_Terbilang.Form1.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo_Terbilang.Properties.Resources.resources
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo Terbilang.csproj.GenerateResource.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo Terbilang.csproj.CoreCompileInputs.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\bin\Debug\Demo Terbilang.exe.config
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\bin\Debug\Demo Terbilang.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\bin\Debug\Demo Terbilang.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\bin\Debug\ClassTerbilang.dll
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\bin\Debug\ClassTerbilang.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo Terbilang.csproj.CopyComplete
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo Terbilang.exe
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\Demo Terbilang\obj\Debug\Demo Terbilang.pdb

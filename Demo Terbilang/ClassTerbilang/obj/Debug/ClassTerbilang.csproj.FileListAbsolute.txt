@@ -1,0 +1,6 @@
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\ClassTerbilang\bin\Debug\ClassTerbilang.dll
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\ClassTerbilang\bin\Debug\ClassTerbilang.pdb
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\ClassTerbilang\obj\Debug\ClassTerbilang.csprojAssemblyReference.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\ClassTerbilang\obj\Debug\ClassTerbilang.csproj.CoreCompileInputs.cache
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\ClassTerbilang\obj\Debug\ClassTerbilang.dll
+E:\Document\UNIVERSITAS AMIKOM\SEMESTER 3\PEMROGRAMAN LANJUT\Praktikum\Pertemuan 2\Demo Terbilang\ClassTerbilang\obj\Debug\ClassTerbilang.pdb
